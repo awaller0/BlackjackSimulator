@@ -1,7 +1,14 @@
-# CIS7BLACKJACK
-
 1. Group 7, Aaron Waller
-2.The project solves the problem of simulating a simplified version of the game Blackjack,providing an interactive gameplay experience for the user.The program implements a solution by utilizing classes and structures to represent the gameelements such as cards, players, and the deck. It incorporates functions for dealing cards,calculating values, and determining advantages, allowing for a functional Blackjack gamesimulation.The program performs calculations such as card counting, determining the player's advantagebased on card values, and calculating probabilities. The algorithms are implemented usingloops, conditional statements, and data structures to manage the game logic and provide thenecessary information to the user.
+2.The project solves the problem of simulating a simplified version of the game Blackjack,
+providing an interactive gameplay experience for the user.
+The program implements a solution by utilizing classes and structures to represent the game
+elements such as cards, players, and the deck. It incorporates functions for dealing cards,
+calculating values, and determining advantages, allowing for a functional Blackjack game
+simulation.
+The program performs calculations such as card counting, determining the player's advantage
+based on card values, and calculating probabilities. The algorithms are implemented using
+loops, conditional statements, and data structures to manage the game logic and provide the
+necessary information to the user.
 The program's objective is to simulate a game of Blackjack and provide an interactive
 experience for the user. It achieves this by displaying a main menu, allowing the user to start the
 game or quit. During gameplay, it provides information about the player's hand, their advantage,
