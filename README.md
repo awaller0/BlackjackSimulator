@@ -79,13 +79,3 @@ int main() {
   return 0;
 }
 ```
-# Usage
-Compile and run the program in a C++ compiler.
-Enter your name and initial bet when prompted.
-Use the main menu to start the game or quit.
-During gameplay, the program will provide information about your hand, advantage, and probability.
-Play your hand according to the prompts.
-Enjoy the interactive Blackjack experience!
-Contributors
-Group 7, Aaron Waller
-Feel free to contribute to this project by submitting pull requests or suggesting improvements.
