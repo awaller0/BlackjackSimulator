@@ -8,7 +8,7 @@ The program's objective is to simulate a game of Blackjack and provide an intera
 
 Discrete structures are implemented in the C++ program using classes (Deck and Blackjack) and structures (Card and Player) to organize and manage the data required for the game. This approach provides a modular and organized way to represent the various elements and relationships within the game.
 
-The limitations of the program include the lack of user input validation, absence of full Blackjack rules, limited number of players, no handling of deck depletion, and absence of bankroll tracking and betting strategies.
+The limitations of the program include the lack of user input validation, limited number of players, handling of deck depletion, and bankroll tracking and betting strategies.
 
 ## Pseudocode
 
